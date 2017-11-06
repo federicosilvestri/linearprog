@@ -7,7 +7,7 @@ import org.la4j.vector.dense.BasicVector;
 
 import java.util.Arrays;
 
-abstract class Simplex {
+public abstract class Simplex {
 
     protected final Matrix A;
 
